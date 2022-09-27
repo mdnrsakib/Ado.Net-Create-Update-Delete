@@ -1,0 +1,257 @@
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+I:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
+G:\C# 1268589\R50\M6\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditDeleteProjects.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditDeleteProjects.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\AxShockwaveFlashObjects.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Shared.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\ShockwaveFlashObjects.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\stdole.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeRpt.resources
+E:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeGroupRpt.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\AxShockwaveFlashObjects.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Shared.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\ShockwaveFlashObjects.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\stdole.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditDeleteProjects.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeGroupRpt.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeRpt.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+D:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\AxShockwaveFlashObjects.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Shared.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\ShockwaveFlashObjects.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\stdole.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditDeleteProjects.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeGroupRpt.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeRpt.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CopyComplete
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+F:\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditDeleteProjects.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeGroupRpt.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeRpt.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\ShockwaveFlashObjects.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\stdole.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+D:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CopyComplete
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\AxShockwaveFlashObjects.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportSource.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Shared.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Windows.Forms.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\ShockwaveFlashObjects.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\stdole.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditDeleteProjects.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeGroupRpt.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeRpt.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CopyComplete
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+K:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb.mdf
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\EmployeeDb_log.ldf
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe.config
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.exe
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CRUD_Project_M6.pdb
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\AxShockwaveFlashObjects.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportSource.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Shared.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.Windows.Forms.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\ShockwaveFlashObjects.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\stdole.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.AssemblyReference.cache
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddEmployee.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.AddProjects.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditDeleteProjects.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.EditEmployees.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeGroupRpt.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FormEmployeeRpt.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.FromMain.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.Properties.Resources.resources
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.GenerateResource.cache
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CoreCompileInputs.cache
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.csproj.CopyComplete
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.exe
+L:\Project M#6\Ado.Net Project 1268589\CRUD_Project_M6\CRUD_Project_M6\obj\Debug\CRUD_Project_M6.pdb
